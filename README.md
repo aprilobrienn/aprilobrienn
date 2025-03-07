@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm April O'Brien
 
-### | 3rd Year Business & Computing Student | 
+### | 3rd Year Business & Computing Student | Currently undertaking an internship in Software Development 
 
 Welcome to my GitHub profile! I’m passionate about continuously learning new technologies to solve real-world problems. Here’s a bit about me and what I’m working on:
 
@@ -16,10 +16,11 @@ Welcome to my GitHub profile! I’m passionate about continuously learning new t
 ---
 
 ### 🌱 What I’m Working On
+- Gaining **Real World Expierience** as I am currently interning in a **Professional Enviornment**.
+- Pursuing a **Bachelor's Degree** & currently on track to graduate with a **First Class Honurs**
 - Learning **Game Development** using the **Pygame** library in **Python**.
-- Exploring **backend development** with Java and MySQL.
+- Exploring **Backend Development** with **Java** and **MySQL**.
 - Expanding my knowledge in **Web development** and **API integration**.
-- Pursuing a **bachelor's degree** in **Business & Computing**
 
 ---
 
