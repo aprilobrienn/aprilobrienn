@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm April O'Brien
 
-### | 3rd Year Business & Computing Student | Currently undertaking an internship in Software Development 
+### | 3rd Year Business & Computing Student | Currently undertaking an internship doing Software Development 
 
 Welcome to my GitHub profile! I’m passionate about continuously learning new technologies to solve real-world problems. Here’s a bit about me and what I’m working on:
 
